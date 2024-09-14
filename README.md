@@ -4,7 +4,7 @@
 Algunos de los Comados utilizados
 
 ´´´
-- git init
-- git remote add origin
-- git remote -v
+ git init
+ git remote add origin
+ git remote -v
 ´´´
